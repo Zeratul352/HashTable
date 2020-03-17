@@ -1,0 +1,9 @@
+C:\Users\Andrey\source\repos\HashTable\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\Andrey\source\repos\HashTable\HashTable\bin\Debug\HashTable.exe
+C:\Users\Andrey\source\repos\HashTable\HashTable\bin\Debug\HashTable.pdb
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.exe
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.pdb
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.Grafic.resources
+C:\Users\Andrey\source\repos\HashTable\HashTable\obj\Debug\HashTable.csproj.GenerateResource.cache
